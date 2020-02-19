@@ -80,6 +80,7 @@ namespace DatingApp.API.Data
                     }
                 }
             }
+            return true;
         }
     }
 }
